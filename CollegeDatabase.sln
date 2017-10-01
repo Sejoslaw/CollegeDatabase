@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollegeDatabase", "CollegeDatabase\CollegeDatabase.csproj", "{CFBAFABF-60DD-4C9C-AF1F-246F2C8156F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollegeDatabase.UnitTests", "CollegeDatabase.UnitTests\CollegeDatabase.UnitTests.csproj", "{311BC0B7-DE14-4B0C-B02F-DD2C2D00C7F6}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CollegeDatabasePython", "CollegeDatabasePython\CollegeDatabasePython.pyproj", "{52674FE7-96A2-4D7E-8FC3-31D178E39578}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFBAFABF-60DD-4C9C-AF1F-246F2C8156F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBAFABF-60DD-4C9C-AF1F-246F2C8156F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBAFABF-60DD-4C9C-AF1F-246F2C8156F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBAFABF-60DD-4C9C-AF1F-246F2C8156F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{311BC0B7-DE14-4B0C-B02F-DD2C2D00C7F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{311BC0B7-DE14-4B0C-B02F-DD2C2D00C7F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{311BC0B7-DE14-4B0C-B02F-DD2C2D00C7F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{311BC0B7-DE14-4B0C-B02F-DD2C2D00C7F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52674FE7-96A2-4D7E-8FC3-31D178E39578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52674FE7-96A2-4D7E-8FC3-31D178E39578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D0C6D78-93C8-4608-BA7F-0F066A468264}
+	EndGlobalSection
+EndGlobal
